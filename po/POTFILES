@@ -1,0 +1,4 @@
+data/com.subjectdenied.gnome-guessword.desktop.in
+data/com.subjectdenied.gnome-guessword.appdata.xml.in
+data/com.subjectdenied.gnome-guessword.gschema.xml
+src/window.ui
